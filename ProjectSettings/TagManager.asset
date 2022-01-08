@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Banana
+  - Strawberry
+  - Gear Trap
+  - Fire Trap
   layers:
   - Default
   - TransparentFX
